@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="600" alt="Banner" />
+  <img src="./assets/690b13a30e503ad053d68ef7f5bb9cf0.jpg" width="600" alt="Banner" />
   </p>
 
 <h1 align="center">Oi, eu sou a Ana! 👋</h1>
