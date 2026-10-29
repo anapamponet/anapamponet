@@ -34,6 +34,9 @@ Gosto de transformar ideias em projetos com identidade, onde design, comunicaç�
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=anapamponet&show_icons=true&hide_border=false&bg_color=FFF3D6&title_color=C9822B&text_color=3B2A1A&icon_color=F2B33D&border_color=F2B33D" alt="Estatísticas do GitHub" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anapamponet&background=FFF3D6&border=F2B33D&ring=F2B33D&fire=C9822B&currStreakNum=3B2A1A&currStreakLabel=C9822B&sideNums=3B2A1A&sideLabels=C9822B&dates=3B2A1A" alt="Sequência de commits" />
+</p>
 
 ## 📫 Contato
 
